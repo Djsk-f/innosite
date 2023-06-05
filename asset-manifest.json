@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b491584b.css",
+    "main.js": "/static/js/main.eb64bdc1.js",
+    "static/js/787.1493c9de.chunk.js": "/static/js/787.1493c9de.chunk.js",
+    "static/media/adulteInt.jpg": "/static/media/adulteInt.de745e07914e7c204ba3.jpg",
+    "static/media/adulteAv.jpg": "/static/media/adulteAv.841e07b69a9ee1ec7812.jpg",
+    "static/media/tof.jpg": "/static/media/tof.f88f8581501c90342f2a.jpg",
+    "static/media/ado.jpg": "/static/media/ado.bae3f0880273136c9e7c.jpg",
+    "static/media/fond_bleu.jpg": "/static/media/fond_bleu.a0dc586d4dd2c81aafa8.jpg",
+    "static/media/enfant.jpg": "/static/media/enfant.ff5e5de94856bd3dfbe8.jpg",
+    "static/media/monde.jpg": "/static/media/monde.e8ee150e85873ea0df14.jpg",
+    "static/media/jospin.jpg": "/static/media/jospin.fe6ee2dbeecee049ab9b.jpg",
+    "static/media/loffou.jpg": "/static/media/loffou.833efddc8dfc0111e8b4.jpg",
+    "static/media/etudiante.png": "/static/media/etudiante.87093af168735b665753.png",
+    "static/media/jeune.png": "/static/media/jeune.e02b18479d614c6cdec5.png",
+    "static/media/francis.jpg": "/static/media/francis.cc4094699dc6afbeabd4.jpg",
+    "static/media/desktop.jpg": "/static/media/desktop.4013093df5da8a97f262.jpg",
+    "static/media/boss.jpg": "/static/media/boss.bec3bf6a77d94f5cf501.jpg",
+    "static/media/img2.png": "/static/media/img2.d1bacce47f921f0dadfb.png",
+    "static/media/joseph.jpg": "/static/media/joseph.2c3777430ce7d586a041.jpg",
+    "static/media/fond.jpg": "/static/media/fond.581397fef98860b8d0a1.jpg",
+    "static/media/coche.png": "/static/media/coche.0dca9a4b6022dfc1d567.png",
+    "index.html": "/index.html",
+    "main.b491584b.css.map": "/static/css/main.b491584b.css.map",
+    "main.eb64bdc1.js.map": "/static/js/main.eb64bdc1.js.map",
+    "787.1493c9de.chunk.js.map": "/static/js/787.1493c9de.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b491584b.css",
+    "static/js/main.eb64bdc1.js"
+  ]
+}
